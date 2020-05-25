@@ -1,0 +1,5 @@
+#register{width:50%; margin-left:25%;text-align:center;}
+#register form input[type="text"]{background:lightslategray;border:2px solid lemonchiffon;padding:15px;}
+#register form input[type="password"]{background:lightslategray;border:2px solid lemonchiffon;padding:15px;}
+#register form input[type="submit"]{background:lightslategray;border:2px solid lemonchiffon;padding:15px;color:lemonchiffon;}
+#register form input[type="submit"]:hover{background:dimgray;}

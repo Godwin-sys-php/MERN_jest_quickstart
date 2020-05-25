@@ -1,0 +1,6 @@
+#LoginContainer{position:fixed;height:100%;width:100%;margin:0;padding:0;background:rgba(255,255,255,.7);text-align:center;z-index:10;top:0;}
+#LoginContainer p{position:absolute;margin:0;padding:20px;top:0;right:0;cursor:pointer;font-size:50px;}
+#LoginForm{background:lightslategray;padding:20px;width:25%;margin-left:calc(37.5% - 20px);margin-top:200px;}
+#LoginForm h2{color:lemonchiffon;}
+#LoginForm input{padding:10px;margin:10px;color:lemonchiffon;border:2px solid lemonchiffon;background:lightslategray;}
+#LoginForm input[type="submit"]:hover{background:dimgray;}
